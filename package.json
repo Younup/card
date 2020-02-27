@@ -1,0 +1,28 @@
+{
+    "name": "younup",
+    "version": "1.0.0",
+    "description": "The Younup Card",
+    "main": "./bin/card.js",
+    "bin": {
+        "younup": "./bin/card.js"
+    },
+    "scripts": {
+        "start": "node ./bin/card.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Younup/card.git"
+    },
+    "keywords": [
+        "younup",
+        "npx",
+        "card",
+        "npx card"
+    ],
+    "author": "Benjamin Auzanneau <benjamin.auzanneau.tm@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "boxen": "^4.2.0",
+        "chalk": "^3.0.0"
+    }
+}
