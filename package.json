@@ -19,7 +19,7 @@
         "card",
         "npx card"
     ],
-    "author": "Benjamin Auzanneau <benjamin.auzanneau.tm@gmail.com>",
+    "author": "Benjamin Auzanneau <b.auzanneau@younup.fr>",
     "license": "MIT",
     "dependencies": {
         "boxen": "^4.2.0",
