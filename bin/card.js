@@ -19,7 +19,7 @@ const options = {
 };
 
 const data = {
-    name: younupColor("     ESN Nantaise agile et humaine au service d'une expertise IT de pointe"),
+    name: younupColor("     La néo-ESN agile et humaine au service d’une expertise IT de pointe"),
     twitter: chalk.cyan('https://twitter.com/Younup_IT'),
     github: chalk.cyan('https://github.com/Younup'),
     linkedin: chalk.cyan('https://linkedin.com/company/younup/'),
